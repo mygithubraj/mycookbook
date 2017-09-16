@@ -15,4 +15,4 @@ This site was designed to aid GitHub users in learning how to leverage GitHub's 
 - Mitigate Risks
 - Create Plans
 - Communicate
-- Collaborate
+- Collaborated
